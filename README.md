@@ -86,7 +86,11 @@ This project involves image classification using the Bag of Visual Words (BoVW) 
 
 
 
-
+data/
+  ├── agricultural/
+  ├── airplane/
+  ├── baseballdiamond/
+  ... (all 22 categories)
    
 
 
